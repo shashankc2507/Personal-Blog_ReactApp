@@ -12,15 +12,18 @@
 ``bash
 npm install
 ```
+
 This command will install all the required Node.js modules into the   node_modules directory inside your work folder.
 And now, you are ready to run the Personal Blog React app for the first time.
 
 5) Make changes in the website according to your needs.
 
 6) While still in your work folder, run the following command in the console application:
+
 ``bash
 npm start
 ```
+
 This command usually runs a development server that compiles your app in memory and supports features like hot reloading.
 
 And that's it. create-react-app will take care of everything and start the React web application.
