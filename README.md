@@ -23,7 +23,7 @@ And now, you are ready to run the Personal Blog React app for the first time.
 
 * This command usually runs a development server that compiles your app in memory and supports features like hot reloading.
 
-And that's it. create-react-app will take care of everything and start the React web application.
+*And that's it. create-react-app will take care of everything and start the React web application.
 You can check out your console application to get further information about the server. By default, it will run on [http://localhost:3000](http://localhost:3000) but it might change depending on your setup.
 
 7) The following command builds the application into an output directory
