@@ -11,6 +11,7 @@
 
 ``bash
 npm install
+```
 
 * This command will install all the required Node.js modules into the   node_modules directory inside your work folder.
 And now, you are ready to run the Personal Blog React app for the first time.
